@@ -10,7 +10,7 @@ Footprint and symbol files for kicad holding common and uncommon ICs.
 **Top Power ASIC:**
 - [X] TP5000
 - [ ] TP5000X
-- [ ] TP5100
+- [X] TP5100
 - [ ] TP4083
 - [ ] TP4058
 - [ ] TP4069
